@@ -1,5 +1,3 @@
-# sosinov_alexandr
-
 Create a console application for reverse each word* in the input line
 
 Example: "abcd efgh" => "dcba hgfe"; "Test" => "tseT"
